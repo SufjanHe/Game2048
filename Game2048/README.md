@@ -1,0 +1,1 @@
+Just run src/Main.java and play.
